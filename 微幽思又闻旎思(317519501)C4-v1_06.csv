@@ -122,10 +122,10 @@ city_kingdom;至尊共和国;République la plus paisible;Die durchlauchtigste R
 city_duchy;共和国;République;Republik;;República;;;;;;;;;x;
 city_county;自由市;Grande cit?Prachtvolle Stadt;;Gran Ciudad;;;;;;;;;x;
 city_barony;城市;Cit?Stadt;;Ciudad;;;;;;;;;x;
-temple_kingdom_catholic;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_kingdom_catholic;神权国;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
 temple_kingdom_orthodox;Patriarchate;Patriarcat;Patriarchat;;Patriarcado;;;;;;;;;x;
 temple_kingdom_muslim;Caliphate;Califat;Kalifat;;Califato;;;;;;;;;x;
-temple_kingdom_pagan_group;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_kingdom_pagan_group;神权国;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
 temple_duchy_christian;Prince-Archbishopric;Prince-évęque;Prinzen-Erzbistum;;Arzobispado;;;;;;;;;x;
 temple_duchy_muslim;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
 temple_duchy_pagan_group;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
