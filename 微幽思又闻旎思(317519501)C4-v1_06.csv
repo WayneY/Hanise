@@ -165,7 +165,7 @@ king_female_west_african;苏丹;Sultane;Sultanin;;Sultana;;;;;;;;;x;
 kingdom_of_west_african;苏丹国;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x;
 kingdom_west_african;苏丹国;Sultanat;Sultanat;;Sultanato;;;;;;;;;x;
 alert_high_decadence_instant;§Y腐化至极?;§YDécadence élevée?;§YHohe Dekadenz?;;§YHigh Decadence?;;;;;;;;;x;
-alert_high_decadence_delayed;你的王朝貌似已腐化得无可救药.有大规模叛乱的危险.;Votre dynastie est perçue comme une maison décadente. Une révolte massive est ?craindre.;Eure Dynastie wird als hoffnungslos dekadent angesehen. Es besteht die Gefahr eines massiven Aufstandes.;;Tu dinastía es vista como desesperadamente decadente. Hay riesgo de revuelta masiva.;;;;;;;;;x;
+alert_high_decadence_delayed;你的家族貌似已腐化得无可救药.有大规模叛乱的危险.;Votre dynastie est perçue comme une maison décadente. Une révolte massive est ?craindre.;Eure Dynastie wird als hoffnungslos dekadent angesehen. Es besteht die Gefahr eines massiven Aufstandes.;;Tu dinastía es vista como desesperadamente decadente. Hay riesgo de revuelta masiva.;;;;;;;;;x;
 PRETENDER_TO;对$TITLE$拥有宣称和继承权的;Prétendant et candidats au titre de $TITLE$;Prätendant und Anspruchsteller für $TITLE$;;Pretendiente y solicitante del $TITLE$;;;;;;;;;x;
 one_celibate;乐在身后:独身主义;Plaisirs de l'au-del?: célibat;Vergnügen im Nachleben: Das Zölibat;;Placeres en la otra vida: Celibato;;;;;;;;;x;
 one_hedonist;乐在此生:享乐主义;Plaisirs de la vie : hédonisme;Vergnügen im Leben: Hedonismus;;Placeres en vida: Hedonismo;;;;;;;;;x;
@@ -484,7 +484,7 @@ DEMESNE_INCOME;领地收入;Revenus du domaine;Grundbesitzeinkommen;;Ingresos de
 MONTHLY_COMBAT_DEC_CHANGE;本月由战斗引起的变化;Changement d?au combat de ce mois;Veränderung wegen diesmonatigem Schlacht;;Cambio debido a combate este mes;;;;;;;;;x;
 BATTLES;战斗;Batailles;Schlachten;;Combates;;;;;;;;;x;
 MONTHLY_UNLANDED;§Y由赋闲的儿子引起的变化:?;§YChangement d?aux fils sans emploi :?;§YÄnderung aufgrund arbeitsloser Söhne:?;;§YCambio debido a hijos sin trabajo:?;;;;;;;;;x;
-DYNASTIC_DECADENCE;Dynastic Decadence;§YDécadence dynastique?\n;§YDynastische Dekadenz?\n;;§YDecadencia dinástica?\n;;;;;;;;;x;
+DYNASTIC_DECADENCE;家族腐化度;§YDécadence dynastique?\n;§YDynastische Dekadenz?\n;;§YDecadencia dinástica?\n;;;;;;;;;x;
 JOBLESS_SON; ( $NUM_SONS$ 赋闲的儿子 ); ( $NUM_SONS$ fils sans emploi ); ( $NUM_SONS$ arbeitsloser Sohn );; ( $NUM_SONS$ hijo sin trabajo );;;;;;;;;x;
 JOBLESS_SONS; ( $NUM_SONS$ 赋闲的儿子 ); ( $NUM_SONS$ fils sans emploi ); ( $NUM_SONS$ arbeitslose Söhne );; ( $NUM_SONS$ hijos sin trabajo );;;;;;;;;x;
 REL_FIRSTWIFE;正妻;Premičre épouse;Erste Ehefrau;;Primera esposa;;;;;;;;;x;
@@ -688,7 +688,7 @@ EVTDESC8186;失败了! 雇佣的刺客没找到把[From.GetTitledName]推下墙�
 opinion_beautiful_poem;优美的诗篇;Magnifique počme;Wunderschönes Gedicht;;Bello poema;;;;;;;;;x;
 opinion_beautiful_song;优美的歌曲;Magnifique chanson;Wunderschönes Lied;;Bella canción;;;;;;;;;x;
 opinion_seduce_spouse;试图勾引配偶;A essay?de séduire l'épouse;Hat versucht, den Ehepartner zu verführen;;Intent?seducir al cónyuge;;;;;;;;;x;
-beautiful_hilya;Beautiful Hilya;Magnifique hilya;Wunderschöne Hilya;;Bella hilya;;;;;;;;;x;
+beautiful_hilya;漂亮的装饰;Magnifique hilya;Wunderschöne Hilya;;Bella hilya;;;;;;;;;x;
 mod_dissatisfied_calligrapher;不满意的线条艺术;Motifs en calligraphie décevants;Unbefriedigender Kalligraphie-Entwurf;;Diseńos caligráficos decepcionantes;;;;;;;;;x;
 mod_perfect_work_calligrapher;完美的线条艺术;Motifs en calligraphie parfaits;Perfekter Kalligraphie-Entwurf;;Diseńos caligráficos perfectos;;;;;;;;;x;
 SPECIAL_EVENTOPTION_0;这个选项可用是因为你高超的§Y交际?技能;Cette option n'est pas disponible car votre aptitude §YDiplomacie? est trop élevée !;Diese Option ist aufgrund Eurer ausgezeichneten §YDiplomatiey?-Fertigkeit verfügbar;;Esta opción est?disponible debido a tu elevada habilidad en §YDiplomacy?;;;;;;;;;x;
