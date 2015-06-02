@@ -1,0 +1,172 @@
+
+EVTDESC_WoL_12020;Yet another peasant family was found butchered not far from where the first grisly murders took place, but this time the killer was caught in the act. He was killed by your guardsmen while trying to escape, and the body they hauled back does decidedly not belong to the dead peasant who expired in your torture chamber.;;;;;;;;;x
+EVTOPTA_WoL_12020;Well... fancy that.;;;;;;;;;x
+EVTDESC_WoL_12021;卫兵报告说在第一件惊悚的谋杀案发生地不远处有另一户农民被屠杀了. 但是这次凶手被当场抓获, 并在逃跑时被卫兵的弓箭打得千疮百孔. 现在看来你关起来的那个农民是无辜的.;;;;;;;;;x
+EVTOPTA_WoL_12021;别傻站着了, 把他放出来!;;;;;;;;;x
+EVTDESC_WoL_12022;Your guards inform you that yet another peasant family has been found butchered not far from where the first grisly murders took place. This time the killer was caught in the act, and he was perforated by arrows when he tried to escape your guardsmen. It would seem the peasant you had imprisoned was innocent after all. Unfortunately he perished in your dungeons months ago.;;;;;;;;;x
+EVTOPTA_WoL_12022;Well, how was I to know?;;;;;;;;;x
+EVTDESC_WoL_12501;Your understanding of all matters pertaining to rulership and administration has increased.;;;;;;;;;x
+EVTDESC_WoL_12502;Recent events have increased your grasp of stewardship.;;;;;;;;;x
+EVTDESC_WoL_12503;Ruling from your court has increased your sense of justice. Your judgments have a profound effect on the lives of your subjects, and you have decided to be more fair.;;;;;;;;;x
+EVTDESC_WoL_12504;As more and more people seek audience at your court, you have come to realize that there is much to do when it comes to the administration of the realm. You must work harder!;;;;;;;;;x
+EVTDESC_WoL_12505;You are no longer content to rest on your laurels. The problems facing your realm are legion, and clearly no one can fix them but you.;;;;;;;;;x
+EVTDESC_WoL_12026;The feuding between [feuding_noble_1.GetBestName] and [feuding_noble_2.GetBestName] has reached your court, and can no longer be ignored. As your vassals, both have brought their grievances against each other to you in the hope of garnering your support.;;;;;;;;;x
+EVTOPTA_WoL_12026;[feuding_noble_1.GetTitledFirstName] is clearly in the right.;;;;;;;;;x
+EVTOPTB_WoL_12026;[feuding_noble_2.GetTitledFirstName] has my support.;;;;;;;;;x
+EVTOPTC_WoL_12026;Both are acting like quarreling children!;;;;;;;;;x
+EVTDESC_WoL_12027;A party of soldiers flying the banner of [farm_fire_noble.GetBestName] recently set up camp in the middle of a field belonging to a farmer in [Root.Capital.GetName]. According to the farmer, their camp fire spread out of control and his entire crop was reduced to ashes. He has brought the matter before your court and demands compensation.;;;;;;;;;x
+EVTOPTA_WoL_12027;[farm_fire_noble.GetTitledFirstName] is to compensate the farmer.;;;;;;;;;x
+EVTOPTB_WoL_12027;The fire was a divine act. No one is responsible.;;;;;;;;;x
+EVTOPTC_WoL_12027;I shall pay the farmer out of my own coffers.;;;;;;;;;x
+EVTDESC_WoL_12028;A woman accused of witchcraft in [witch_province.GetName] has been dragged before your court. Several witnesses have seen her performing dark rituals in her secluded hut, possibly related to recent crop failures. She claims innocence, and it falls on you to determine her fate.;;;;;;;;;x
+EVTOPTA_WoL_12028;She will burn at the stake.;;;;;;;;;x
+EVTOPTB_WoL_12028;Throw the fiend in the dungeons!;;;;;;;;;x
+EVTOPTC_WoL_12028;What nonsense is this? Release the poor woman at once!;;;;;;;;;x
+EVTDESC_WoL_12029;Several tavern owners in [drunken_rampage.GetName] have come forward to your court with complaints against [noble_drunkard.GetBestName]. Apparently, [noble_drunkard.GetSheHe] has gone on drunken rampages in all of their establishments, and they are demanding compensation. [noble_drunkard.GetTitledFirstName] claims to have no memory of the nights in question.;;;;;;;;;x
+EVTOPTA_WoL_12029;[noble_drunkard.GetTitledFirstName] shall compensate the tavern owners.;;;;;;;;;x
+EVTOPTB_WoL_12029;Drinking and debauchery are what your taverns are for, are they not?;;;;;;;;;x
+EVTOPTC_WoL_12029;Sigh... I will pay.;;;;;;;;;x
+EVTDESC_WoL_12031;During a visit to [mayor_city.GetName], [brigands_noble.GetBestName] and [brigands_noble.GetHerHis] entourage were accosted by brigands who made off with several valuables. Efforts to catch the thieves have failed, and [brigands_noble.GetTitledFirstName] is now demanding compensation from [brigands_mayor.GetBestName]. The matter has been brought for arbitration at your court.;;;;;;;;;x
+EVTOPTA_WoL_12031;It seems fair. [brigands_mayor.GetTitledFirstName] will pay for what was lost.;;;;;;;;;x
+EVTOPTB_WoL_12031;[brigands_mayor.GetTitledFirstName] can hardly be held responsible for this theft!;;;;;;;;;x
+EVTOPTC_WoL_12031;I will personally compensate [brigands_noble.GetTitledFirstName].;;;;;;;;;x
+EVTDESC_WoL_12506;Whether it is deserved or not, your decisions at court have earned you a reputation of being incredibly wise. People journey from far away to seek your advice.;;;;;;;;;x
+EVTDESC_WoL_12507;Your vassals have come to respect your rulership, even if they do not always agree with your decisions. No one questions that you have what it takes to rule.;;;;;;;;;x
+EVTDESC_WoL_4161_gamer;It's great to spend time carousing and frolicking in good company. You feel great, absolutely great, and that means the time has come to bring out the old game board.;;;;;;;;;x
+EVTDESC_WoL_4161_non_gamer;It's great to spend time carousing in merry company. While the cups are being refilled, [From.GetTitledFirstName] brings out a strange board with little decorated pieces, explaning that it's a kind of strategy game. [From.GetSheHe] assures you that it's a great pastime that combines well with copious amounts of drink.;;;;;;;;;x
+EVTOPTA_WoL_4161;We will play for money!;;;;;;;;;x
+EVTOPTB_WoL_4161;We will play for honor!;;;;;;;;;x
+EVTDESC_WoL_4162_money_i_suggest;You suggested to [From.GetTitledFirstName] that you bring out the board and pieces to play and see who's the better strategist. [From.GetSheHe] has accepted, on the condition that you play for money.;;;;;;;;;x
+EVTDESC_WoL_4162_not_money_i_suggest;You suggested to [From.GetTitledFirstName] that you bring out the board and pieces to play and see who's the better strategist. [From.GetSheHe] accepted, insisting that you play for honor.;;;;;;;;;x
+EVTDESC_WoL_4162_money_they_suggest;[From.GetTitledFirstName] has brought out the board and pieces and suggests that you play a few rounds to determine who is the better strategist. [From.GetSheHe] insist that you play for money.;;;;;;;;;x
+EVTDESC_WoL_4162_not_money_they_suggest;[From.GetTitledFirstName] has brought out the board and pieces and suggests that you play a few rounds to determine who is the better strategist. You will play for honor.;;;;;;;;;x
+EVTOPTA_WoL_4162;Very well, let's play!;;;;;;;;;x
+EVTDESC_WoL_4163_win;You played for hours, the tides of fortune ebbing and flowing as you tried to attack your opponent's positions without opening your defence too much. Eventually, you found a critical opening and made a few inspired and aggressive moves and won the game.;;;;;;;;;x
+EVTDESC_WoL_4163_loss;You played for hours, the tides of fortune ebbing and flowing as you tried to attack your opponent's positions without opening your defence too much. Eventually, however, you made a fatal mistake that your opponent exploited, and you lost the game.;;;;;;;;;x
+EVTOPTA_WoL_4163;Hail to the [Root.GetTitle]!;;;;;;;;;x
+EVTOPTB_WoL_4163;I will get you next time.;;;;;;;;;x
+EVTDESC_WOL_11000;[FromFrom.GetBestName] has challenged you to a duel. The only honorable response would be to accept the challenge.;;;;;;;;;x
+EVTOPTA_WOL_11000;Challenge accepted.;;;;;;;;;x
+EVTOPTB_WOL_11000;No, that sounds dangerous.;;;;;;;;;x
+EVTDESC_WOL_11001;[From.GetBestName] has chosen to accept your challenge to personal combat. The duel will take place in the coming days.;;;;;;;;;x
+EVTOPTA_WOL_11001;Let's fight!;;;;;;;;;x
+EVTDESC_WOL_11002;The coward, [From.GetBestName], has chosen to flee and hide rather than accept your duel.;;;;;;;;;x
+EVTOPTA_WOL_11002;Pathetic.;;;;;;;;;x
+EVTDESCA_WOL_11006;It is the day of your duel against [opponent.GetBestName]. The fight is fierce from the start and the sounds of metal crashing together overtakes the murmur of the crowd watching the fight. The fight rages on for a while with no clear advantage to either you nor your opponent until you manage to parry [opponent.GetBestName]'s blade and deliver a powerful slash against [opponent.GetHerHis] now defenseless weapon arm. [opponent.GetSheHeCap] drops [opponent.GetHerHis] weapon on the ground and screams in pain as [opponent.GetSheHe] looks down on [opponent.GetHerHis] ravaged arm.;;;;;;;;;x
+EVTDESCB_WOL_11006;The day of your duel against [opponent.GetBestName] has arrived. A small crowd has gathered to watch your fight of honor and glory. [opponent.GetBestName] starts aggressive and throws attacks at you which you manage to dodge and block. Over time you gain the advantage while your opponent is getting more and more fatigued. Finally you feint a high attack and [opponent.GetBestName] fails to block your strike which hits [opponent.GetHerHim] in the leg. Your opponent puts down [opponent.GetHerHis] weapon and yields.;;;;;;;;;x
+EVTDESCC_WOL_11006;It is the day of your duel against [challenger.GetBestName]. The fight is fierce from the start and the sounds of metal crashing together overtakes the murmur of the crowd watching the fight. The fight rages on for a while with no clear advantage to either you nor your opponent until you manage to parry [challenger.GetBestName]'s blade and deliver a powerful slash against [challenger.GetHerHis] now defenseless weapon arm. [challenger.GetSheHeCap] drops [challenger.GetHerHis] weapon on the ground and screams in pain as [challenger.GetSheHe] looks down on [challenger.GetHerHis] ravaged arm.;;;;;;;;;x
+EVTDESCD_WOL_11006;The day of your duel against [challenger.GetBestName] has arrived. A small crowd has gathered to watch your fight of honor and glory. [challenger.GetBestName] starts aggressive and throws attacks at you which you manage to dodge and block. Over time you gain the advantage while your opponent is getting more and more fatigued. Finally you feint a high attack and [challenger.GetBestName] fails to block your strike which hits [challenger.GetHerHim] in the leg. Your opponent puts down [challenger.GetHerHis] weapon and yields.;;;;;;;;;x
+EVTOPTA_WOL_11006;Walk away as victor.;;;;;;;;;x
+EVTOPTB_WOL_11006;Walk away as victor.;;;;;;;;;x
+EVTOPTC_WOL_11006;I will show no mercy!;;;;;;;;;x
+EVTDESCA_WOL_11007;You step up to your opponent, [From.GetBestName], in the duel and raise your blade. The fight is intense from the start as both of you strike hard into the others blade. It is unclear who will walk out of this victoriously for a long while until your blade gets parried to the opposite side of your weapon arm which yields [From.GetBestName] an opportunity at your defenseless arm. The pain goes through your whole body as your opponents blade digs deep into your arm and you scream louder than a furious bear but the duel is nonetheless lost.;;;;;;;;;x
+EVTDESCB_WOL_11007;The duel starts violently as your tactic is to strike at [From.GetBestName]'s garde repeatedly until it folds. Your opponent however seems proficient at [From.GetHerHis] skill with the blade and blocks your every attack with relative ease and eventually you grow more and more fatigued from your repeated attacks. That is the time when [From.GetBestName] manages to fool you feinting a high strike while pulling [From.GetHerHis] blade down and landing it in your leg. You wound hinders your movement in the battle and you realize that you have lost and yields to your opponent.;;;;;;;;;x
+EVTOPTA_WOL_11007;Curses!;;;;;;;;;x
+EVTDESC_WOL_11008;Dueling against [From.GetBestName] was surely supposed to be a great challenge but you step up to it and begin the fight. The crowd was cheering but you have no idea whom they wished to be a victor since everything in the fight went so fast and blurry. Suddenly you find yourself without your sword and on your knees with your opponent the clear victor. But instead of walking away [From.GetBestName] steps up to you. You plead for mercy but [From.GetBestName] just smirks as [From.GetSheHe] raises [From.GetHerHis] sword and strike you down for good.;;;;;;;;;x
+EVTDESCA_WOL_11009;You rush [opponent.GetBestName] with your sword raised as soon as your duel begins. [opponent.GetFirstName] is equally aggressive and delivers hateful blows that you barely manage to block with the edge of your blade. The crowd gasps in suprise of the fury that is displayed in front of their eyes. Both of you occasionally lands a blow against the other that to a normal man would have him down to the ground in pain but the duel continues as both of you refuse to yield. With a fast swing you hit [opponent.GetFirstName] in the side opening up a fatal wound and you seem victorious only to find [opponent.GetFirstName]'s blade stuck in your stomach.;;;;;;;;;x
+EVTDESCB_WOL_11009;You rush [challenger.GetBestName] with your sword raised as soon as your duel begins. [challenger.GetFirstName] is equally as aggressive and delivers hateful blows that you barely manage to block with the edge of your blade. The crowd gasps in suprise of the fury that is displayed in front of their eyes. Both of you occasionally lands a blow against the other that to a normal man would have him down to the ground in pain but the duel continues as both of you refuse to yield. With a fast swing you hit [challenger.GetFirstName] in the side opening up a fatal wound and you seem victorious only to find [challenger.GetFirstName]'s blade stuck in your stomach.;;;;;;;;;x
+EVTDESCA_WOL_11011;As you enter the circle that the crowd has created you already know that you will be victorious against your weak opponent, [opponent.GetBestName]. Your opponent enters the ring in a fashion opposed to your confident entry, as he charges headlong towards you swinging mindlessly at your garde. After the initial swings you make the fight short as you silence the crowd when you dodge an overhead swing by [opponent.GetBestName] and follow it up with a carefully aimed swing across [opponent.GetHerHis] neck fully detaching [opponent.GetHerHis] head from the body.;;;;;;;;;x
+EVTDESCB_WOL_11011;As you enter the circle that the crowd has created you already know that you will be victorious against your weak opponent, [challenger.GetBestName]. Your opponent enters the ring in a fashion opposed to your confident entr茅e, as he charges headlong towards you swinging mindlessly at your garde. After the initial swings you make the fight short as you silence the crowd when you dodge an overhead swing by [challenger.GetBestName] and follow it up with a carefully aimed swing across [opponent.GetHerHis] neck fully detaching [challenger.GetHerHis] head from the body.;;;;;;;;;x
+EVTOPTA_WOL_11011;Schwop.;;;;;;;;;x
+EVTDESC_WOL_11012;The fight against [From.GetBestName] was going to be a one-sided fight so you thought that you needed to catch him by suprise. Therefore you thought it was a good idea to charge him right as he stood there mockingly in taking the crowd's praising cheering. However your sudden move didn't catch your opponent off guard as he effortlessly parries and dodges your swings. After you clearly miss with an overhead swing [From.GetBestName] has all the time in the world to carefully swing at your exposed neck and your head makes a small loop as it descends to the ground.;;;;;;;;;x
+EVTOPTA_WOL_11012;Schwop.;;;;;;;;;x
+EVTDESC_WOL_11013;[FromFrom.GetBestName] has stained your honor by forcing you down into the dirt in a duel. It is only natural that you start to plan your revenge.;;;;;;;;;x
+EVTOPTA_WOL_11013;[FromFrom.GetBestName] will feel the wrath of my vengeance!;;;;;;;;;x
+EVTOPTB_WOL_11013;I'd better not make more enemies than I already have.;;;;;;;;;x
+EVTDESC_WOL_11014;[From.GetBestName] did not take lightly on being defeated in a duel. [From.GetSheHeCap] has sworn to avenge [From.GetHerHis] defeat.;;;;;;;;;x
+EVTOPTA_WOL_11014;Seems like I've made myself an enemy today.;;;;;;;;;x
+EVTOPTB_WOL_11014;Another enemy to my collection.;;;;;;;;;x
+EVTDESC_WOL_11101;You realize that to become a great fighter you would need to get in better shape. There's a great path in the nearby woods that would be an excellent running path.;;;;;;;;;x
+EVTOPTA_WOL_11101;Let's go running.;;;;;;;;;x
+EVTDESC_WOL_11102;You've been stomping around the whole day grinding your teeth and suddenly you realize why you have been in a bad mood all day. You just can't seem to abide having lazy people around you anymore.;;;;;;;;;x
+EVTOPTA_WOL_11102;I'll get him to be less slothfull when I'm around.;;;;;;;;;x
+EVTOPTB_WOL_11102;It grinds my gears but I might upset people if I lecture people just like that.;;;;;;;;;x
+EVTDESC_WOL_11103;A small spear-throwing contest could be fun aswell as helping you train for battle. Maybe you should arrange such a contest at your court?;;;;;;;;;x
+EVTOPTA_WOL_11103;My throwing arm will amaze everyone!;;;;;;;;;x
+EVTOPTB_WOL_11103;Maybe another time.;;;;;;;;;x
+EVTDESC_WOL_11104;Everyone in the spear-throwing contest is having a great time, throwing spears, discussing and laughing. Basically enjoying themselves. Maybe enjoying themselves a bit too much as a spear is thrown carelessly while someone is out on the field measuring the distance from a previous spear.;;;;;;;;;x
+EVTOPTA_WOL_11104;Well that's unfortunate.;;;;;;;;;x
+EVTDESC_WOL_11107;After dozens of spears have flown through the sky one sole victor emerges from the competition. No-one threw farther than you!;;;;;;;;;x
+EVTOPTA_WOL_11107;This is a glorious day.;;;;;;;;;x
+EVTDESC_WOL_11109;After dozens of spears have flown through the sky one sole victor emerges from the competition. No-one threw farther than [From.GetBestName].;;;;;;;;;x
+EVTOPTA_WOL_11109;Congratulations to [From.GetBestName];;;;;;;;;x
+EVTDESC_WOL_11110;Your daily routine involves swinging blades at a training dummy. But you can only learn so much from fighting an inanimate enemy and it gets kind of dull after a while.;;;;;;;;;x
+EVTOPTA_WOL_11110;I could use someone to train with.;;;;;;;;;x
+#EVTOPTB_WOL_11110;Though I only fight my enemies.;Mais je ne combats que mes ennemis.;Obwohl ich nur gegen meine Feinde k鋗pfe.;;Aunque s髄o lucho contra mis enemigos. ;;;;;;;;;x
+EVTDESC_WOL_11111;Training against an intelligent enemy is a lot harder but more rewarding to your battle skill. After a lot of bruises you seem to have more control over a fight.;;;;;;;;;x
+EVTOPTA_WOL_11111;Good fighting, [From.GetName]!;;;;;;;;;x
+EVTDESC_WOL_11112;Even with blunt blades a training fight is a dangerous thing. Sometimes a sword might strike just a bit too hard.;;;;;;;;;x
+EVTOPTA_WOL_11112;That's enough fighting for this week.;;;;;;;;;x
+EVTDESC_WOL_11201;After countless of swinging your sword you are starting to learn the ins and outs of every strike that is possible against your foes.;;;;;;;;;x
+EVTOPTA_WOL_11201;The hard training is paying of.;;;;;;;;;x
+EVTDESC_WOL_11202;Training day and night, you have finally mastered the art of fighting personal combat. There are few people with more knowledge of fighting techniques than you.;;;;;;;;;x
+EVTOPTA_WOL_11202;I will be known as a duelist.;;;;;;;;;x
+EVTOPTB_WOL_11202;I think I might spend time on something else.;;;;;;;;;x
+EVTDESC_WOL_11203;Because of your strength and ability to beat a normal man down in a brawl people from all around have begun to talk about you as someone you don't want to pick a fight with.;;;;;;;;;x
+EVTOPTA_WOL_11203;It feels good to be recognized.;;;;;;;;;x
+EVTDESC_WOL_11204;All this violence seems to solve your problems and life seems easier when you can just smash something.;;;;;;;;;x
+EVTOPTA_WOL_11204;I seem to no longer have the patience to negotiate.;;;;;;;;;x
+EVTDESC_WOL_11205;When you learn to live with war as your neighbor you time and time again will find yourself staring death in the face.;;;;;;;;;x
+EVTOPTA_WOL_11205;I no longer feel fear.;;;;;;;;;x
+EVTDESCA_WOL_11206;The strict exercise regime you have taken up after your decision to become a legendary warrior has made you one of the toughest persons around.;;;;;;;;;x
+EVTDESCB_WOL_11206;The strict exercise regime you have taken up after your decision to become a legendary warrior has impressed people enough to no longer consider you a weakling.;;;;;;;;;x
+EVTOPTA_WOL_11206;I feel like I could lift a small house.;;;;;;;;;x
+EVTOPTB_WOL_11206;I feel like I could lift a small horse.;;;;;;;;;x
+EVTTOOLTIPWOLWARPROGRESS;[This.GetBestName] is improving [This.GetHerHis] efforts to become a warrior.;;;;;;;;;x
+opinion_held_contest;Held Contest;;;;;;;;;x
+opinion_fled_duel;Fled a Just Duel;;;;;;;;;x
+wol_warrior;Warrior;;;;;;;;;x
+desc_wol_warrior;This character is known for being proficient at personal combat.;;;;;;;;;x
+wol_great_warrior;Great Warrior;;;;;;;;;x
+desc_wol_great_warrior;This character is known for being proficient at personal combat.;;;;;;;;;x
+despised_aristocrat;Despised Aristocrat;;;;;;;;;x
+desc_despised_aristocrat;This character has been denying the ordinary population their rights.;;;;;;;;;x
+recent_duel_victory;Duel Victory;;;;;;;;;x
+desc_recent_duel_victory;This character has recently defeated another person in a duel.;;;;;;;;;x
+duel_decision;Duel;;;;;;;;;x
+duel_decision_desc;Challenge <A7-Y>[This.GetTitledFirstName]<A7-!> to a duel to uphold your honor. Duels can be considered dangerous to your health.;;;;;;;;;x
+tower_start;We will begin with the necessary preparations for the construction.;;;;;;;;;x
+nick_the_headless;the Headless;;;;;;;;;x
+construction_accident;Construction Accident;;;;;;;;;x
+desc_construction_accident;An accident that could've been avoided angers the population of [This.GetName].;;;;;;;;;x
+outlawed_guild;Outlawed Guild;;;;;;;;;x
+desc_outlawed_guild;The cities in this province had one of the major guilds outlawed.;;;;;;;;;x
+carpenters_guild;Carpenters Guild;;;;;;;;;x
+desc_carpenters_guild;There's a prominent Carpenters Guild in this province making construction fast and cheap.;;;;;;;;;x
+nick_the_ruthless;the Ruthless;;;;;;;;;x
+nick_the_beheader;the Beheader;;;;;;;;;x
+EVTTOOLTIPWOL10302;Your <A7-Y>Dynasty<A7-!> will appreciate this gesture.;;;;;;;;;x
+opinion_ruthless;Ruthless;;;;;;;;;x
+EVTTOOLTIPWOL11006;People will be upset about this merciless action.\n;;;;;;;;;x
+EVTDESC_WOL_10401;As you've increased your efforts in trying to gain wealth the amount of hours you spend sleeping has decreased because sleeping is not a profitable behaviour.;;;;;;;;;x
+EVTOPTA_WOL_10401;I must have more gold!;;;;;;;;;x
+aspiring_gardener;Aspiring Gardener;;;;;;;;;x
+desc_aspiring_gardener;This character has taken an interest in gardening.;;;;;;;;;x
+EVTDESC_WOL_10430;[From.GetTitledFirstName] approaches you and presents to you a request to buy a small plot of your land in [Capital.Capital.GetName]. This is a grievous decision for you since he promises to pay well for the land.;;;;;;;;;x
+EVTOPTA_WOL_10430;I do need the cash.;;;;;;;;;x
+EVTOPTB_WOL_10430;There's not enough gold in your pockets to buy my land.;;;;;;;;;x
+EVTDESC_WOL_10420;An opportunity has presented itself to you to let everyone be reminded of your rule. There's a skilled minter that you can hire to mint out new coins for your realm with a portrait of your face.;;;;;;;;;x
+EVTOPTA_WOL_10420;Mint the coins for glory.;;;;;;;;;x
+EVTOPTB_WOL_10420;Debase the mints with less precious metals for profits.;;;;;;;;;x
+EVTOPTC_WOL_10420;No, there's no need for additional currencies.;;;;;;;;;x
+EVTDESC_WOL_10421;A merchantman has managed to find out that the coins you minted were a bit shady and didn't contain the metals that they were supposed to consist of.;;;;;;;;;x
+EVTOPTA_WOL_10421;People might taunt my face on those coins now.;;;;;;;;;x
+EVTDESC_WOL_10440;A group of craftsmen has come to your court and shown of their work. It is fine goods that you see that could surely have a demand within the realm. They have come to you to ask for some capital to start up a workshop since they lack the funds to do it themselves.;;;;;;;;;x
+EVTOPTA_WOL_10440;This is a sound investment.;;;;;;;;;x
+EVTTOOLTIPWOL10440;A workshop will begin setting up for producing goods in [From.GetName].;;;;;;;;;x
+EVTOPTB_WOL_10440;No. Your lack of funds is not my problem.;;;;;;;;;x
+EVTDESC_WOL_10441;The craftsmen that you funded a couple of years ago have returned to tell you of their success in setting up their business as it's now one of the most profitable enterprises in [FromFrom.GetName].;;;;;;;;;x
+EVTOPTA_WOL_10441;Great! More taxes for me.;;;;;;;;;x
+EVTDESC_WOL_10442;After a faint knock on your door a small figure peeks in through the door gap. You remember him as one of the craftsmen whom you funded a workshop for a couple of years ago. He shamefully tells you that the enterprise didn't go exactly as planned and that they're now bankrupt with nothing to show for it.;;;;;;;;;x
+EVTOPTA_WOL_10442;That was a bad investment...;;;;;;;;;x
+EVTDESC_WOL_10410;There's a group of carpenters in [From.GetName] who have begun working more and more together with taking on both work and learning up apprentices. You now need to act to either approve of this carpenters' guild to ensure that you have a good reputation amongst the skilled carpenters. Or you could outlaw them to make sure such an impediment on the local market structure is avoided.;;;;;;;;;x
+EVTOPTA_WOL_10410;I'll support the carpenters.;;;;;;;;;x
+EVTOPTB_WOL_10410;Outlaw the guilds.;;;;;;;;;x
+artisan_workshop;Artisan Workshop;;;;;;;;;x
+desc_artisan_workshop;A workshop in this province provide goods of high-quality.;;;;;;;;;x
+sold_off_land;Sold off Land to Burgher;;;;;;;;;x
+desc_sold_off_land;The ruler has sold of valuable land for short term profits.;;;;;;;;;x
+EVTDESC_WOL_10999;After whirring around for months in unknown areas with a map that doesn't make any sense at all you decide to give up on trying to find a realm to trade with.;;;;;;;;;x
+EVTOPTA_WOL_10999;Time to find our way home then.;;;;;;;;;x
+EVTDESC_WOL_10500;Ever since you started to count your income and expenses in the chase for more wealth your coffers seems to filled to the brim more often than before.;;;;;;;;;x
+EVTOPTA_WOL_10500;A thriving economy is good for the realm.;;;;;;;;;x
