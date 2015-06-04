@@ -1,37 +1,37 @@
 
 EVTDESC_WoL_12020;Yet another peasant family was found butchered not far from where the first grisly murders took place, but this time the killer was caught in the act. He was killed by your guardsmen while trying to escape, and the body they hauled back does decidedly not belong to the dead peasant who expired in your torture chamber.;;;;;;;;;x
-EVTOPTA_WoL_12020;Well... fancy that.;;;;;;;;;x
+EVTOPTA_WoL_12020;好的... 值得庆祝.;;;;;;;;;x
 EVTDESC_WoL_12021;卫兵报告说在第一件惊悚的谋杀案发生地不远处有另一户农民被屠杀了. 但是这次凶手被当场抓获, 并在逃跑时被卫兵的弓箭打得千疮百孔. 现在看来你关起来的那个农民是无辜的.;;;;;;;;;x
 EVTOPTA_WoL_12021;别傻站着了, 把他放出来!;;;;;;;;;x
-EVTDESC_WoL_12022;Your guards inform you that yet another peasant family has been found butchered not far from where the first grisly murders took place. This time the killer was caught in the act, and he was perforated by arrows when he tried to escape your guardsmen. It would seem the peasant you had imprisoned was innocent after all. Unfortunately he perished in your dungeons months ago.;;;;;;;;;x
-EVTOPTA_WoL_12022;Well, how was I to know?;;;;;;;;;x
-EVTDESC_WoL_12501;Your understanding of all matters pertaining to rulership and administration has increased.;;;;;;;;;x
-EVTDESC_WoL_12502;Recent events have increased your grasp of stewardship.;;;;;;;;;x
-EVTDESC_WoL_12503;Ruling from your court has increased your sense of justice. Your judgments have a profound effect on the lives of your subjects, and you have decided to be more fair.;;;;;;;;;x
-EVTDESC_WoL_12504;As more and more people seek audience at your court, you have come to realize that there is much to do when it comes to the administration of the realm. You must work harder!;;;;;;;;;x
-EVTDESC_WoL_12505;You are no longer content to rest on your laurels. The problems facing your realm are legion, and clearly no one can fix them but you.;;;;;;;;;x
-EVTDESC_WoL_12026;The feuding between [feuding_noble_1.GetBestName] and [feuding_noble_2.GetBestName] has reached your court, and can no longer be ignored. As your vassals, both have brought their grievances against each other to you in the hope of garnering your support.;;;;;;;;;x
-EVTOPTA_WoL_12026;[feuding_noble_1.GetTitledFirstName] is clearly in the right.;;;;;;;;;x
-EVTOPTB_WoL_12026;[feuding_noble_2.GetTitledFirstName] has my support.;;;;;;;;;x
-EVTOPTC_WoL_12026;Both are acting like quarreling children!;;;;;;;;;x
-EVTDESC_WoL_12027;A party of soldiers flying the banner of [farm_fire_noble.GetBestName] recently set up camp in the middle of a field belonging to a farmer in [Root.Capital.GetName]. According to the farmer, their camp fire spread out of control and his entire crop was reduced to ashes. He has brought the matter before your court and demands compensation.;;;;;;;;;x
-EVTOPTA_WoL_12027;[farm_fire_noble.GetTitledFirstName] is to compensate the farmer.;;;;;;;;;x
-EVTOPTB_WoL_12027;The fire was a divine act. No one is responsible.;;;;;;;;;x
-EVTOPTC_WoL_12027;I shall pay the farmer out of my own coffers.;;;;;;;;;x
-EVTDESC_WoL_12028;A woman accused of witchcraft in [witch_province.GetName] has been dragged before your court. Several witnesses have seen her performing dark rituals in her secluded hut, possibly related to recent crop failures. She claims innocence, and it falls on you to determine her fate.;;;;;;;;;x
-EVTOPTA_WoL_12028;She will burn at the stake.;;;;;;;;;x
-EVTOPTB_WoL_12028;Throw the fiend in the dungeons!;;;;;;;;;x
-EVTOPTC_WoL_12028;What nonsense is this? Release the poor woman at once!;;;;;;;;;x
-EVTDESC_WoL_12029;Several tavern owners in [drunken_rampage.GetName] have come forward to your court with complaints against [noble_drunkard.GetBestName]. Apparently, [noble_drunkard.GetSheHe] has gone on drunken rampages in all of their establishments, and they are demanding compensation. [noble_drunkard.GetTitledFirstName] claims to have no memory of the nights in question.;;;;;;;;;x
-EVTOPTA_WoL_12029;[noble_drunkard.GetTitledFirstName] shall compensate the tavern owners.;;;;;;;;;x
-EVTOPTB_WoL_12029;Drinking and debauchery are what your taverns are for, are they not?;;;;;;;;;x
-EVTOPTC_WoL_12029;Sigh... I will pay.;;;;;;;;;x
-EVTDESC_WoL_12031;During a visit to [mayor_city.GetName], [brigands_noble.GetBestName] and [brigands_noble.GetHerHis] entourage were accosted by brigands who made off with several valuables. Efforts to catch the thieves have failed, and [brigands_noble.GetTitledFirstName] is now demanding compensation from [brigands_mayor.GetBestName]. The matter has been brought for arbitration at your court.;;;;;;;;;x
-EVTOPTA_WoL_12031;It seems fair. [brigands_mayor.GetTitledFirstName] will pay for what was lost.;;;;;;;;;x
-EVTOPTB_WoL_12031;[brigands_mayor.GetTitledFirstName] can hardly be held responsible for this theft!;;;;;;;;;x
-EVTOPTC_WoL_12031;I will personally compensate [brigands_noble.GetTitledFirstName].;;;;;;;;;x
-EVTDESC_WoL_12506;Whether it is deserved or not, your decisions at court have earned you a reputation of being incredibly wise. People journey from far away to seek your advice.;;;;;;;;;x
-EVTDESC_WoL_12507;Your vassals have come to respect your rulership, even if they do not always agree with your decisions. No one questions that you have what it takes to rule.;;;;;;;;;x
+EVTDESC_WoL_12022;卫兵报告说在第一件惊悚的谋杀案发生地不远处有另一户农民被屠杀了. 但是这次凶手被当场抓获, 并在逃跑时被卫兵的弓箭打得千疮百孔. 现在看来你关起来的那个农民是无辜的. 不幸的是，数月前他已在你的地牢里死于非命.;;;;;;;;;x
+EVTOPTA_WoL_12022;唉, 我怎么知道会这样呢?;;;;;;;;;x
+EVTDESC_WoL_12501;你对于统治与管理上的事务的理解得到了加强.;;;;;;;;;x
+EVTDESC_WoL_12502;最近的事件增长了你的理财能力.;;;;;;;;;x
+EVTDESC_WoL_12503;断案加强了你的正义感. 你的判决对于你的子民有很大影响力, 你决定变得更公正.;;;;;;;;;x
+EVTDESC_WoL_12504;随着越来越多的人要求旁听你的廷议, 你认识到要管理起整个领属还有很多需要做. 你必须更努力!;;;;;;;;;x
+EVTDESC_WoL_12505;你不在满足于在桂冠上休憩. 你的领属面临的问题足足有一个军团. 除了你之外，没人能搞定它们.;;;;;;;;;x
+EVTDESC_WoL_12026;[feuding_noble_1.GetBestName]和[feuding_noble_2.GetBestName]之间的矛盾激化到上呈到了你的公堂之上, 并且他俩都不是无关紧要的小人物. 作为你的封臣，他俩都将针对对方的诉求致以你，希望着能得到你的支持.;;;;;;;;;x
+EVTOPTA_WoL_12026;明显[feuding_noble_1.GetTitledFirstName]是正确的.;;;;;;;;;x
+EVTOPTB_WoL_12026;支持[feuding_noble_2.GetTitledFirstName].;;;;;;;;;x
+EVTOPTC_WoL_12026;两个都表现得像吵架的小儿!;;;;;;;;;x
+EVTDESC_WoL_12027;一队举着[farm_fire_noble.GetBestName]旗帜的士兵最近在一片属于一个[Root.Capital.GetName]农民的土地上扎营. 据该农民所说，他们的营火失去了控制把他的所有作物都烧成了灰. 他已将此事上呈给了你，并要求获得赔偿.;;;;;;;;;x
+EVTOPTA_WoL_12027;[farm_fire_noble.GetTitledFirstName]将赔偿这个农民.;;;;;;;;;x
+EVTOPTB_WoL_12027;这是神圣之火. 无人需要负责.;;;;;;;;;x
+EVTOPTC_WoL_12027;我来赔偿这个农民吧.;;;;;;;;;x
+EVTDESC_WoL_12028;一个[witch_province.GetName]被指控为巫婆的女人被拉到了你的廷前. 几个目击者表示见过她在密室中进行黑暗仪式，很可能跟最近的歉收有关. 她则自称是无辜的. 现在需要你来决定她的命运.;;;;;;;;;x
+EVTOPTA_WoL_12028;她应该被绑在柱子上烧死.;;;;;;;;;x
+EVTOPTB_WoL_12028;把这个恶魔扔进地牢!;;;;;;;;;x
+EVTOPTC_WoL_12028;这是什么谬论? 立刻放了这个可怜的女人!;;;;;;;;;x
+EVTDESC_WoL_12029;几个在[drunken_rampage.GetName]的酒馆老板来到了你的廷前对[noble_drunkard.GetBestName]进行控诉.[noble_drunkard.GetSheHe]貌似在他们所有人的地方都发过酒疯，故而他们现在要求赔偿. 但是[noble_drunkard.GetTitledFirstName]则声称对这些事情毫无印象.;;;;;;;;;x
+EVTOPTA_WoL_12029;[noble_drunkard.GetTitledFirstName]应当赔偿这些酒馆老板.;;;;;;;;;x
+EVTOPTB_WoL_12029;你们的酒馆不就是为了醉酒和放纵开的吗, 不是么?;;;;;;;;;x
+EVTOPTC_WoL_12029;唉h... 我来赔吧.;;;;;;;;;x
+EVTDESC_WoL_12031;在[mayor_city.GetName]访问期间, [brigands_noble.GetBestName]和[brigands_noble.GetHerHis]随从们被山贼盯上了让得手了好几件贵重物品. 抓获小偷的尝试失败了, [brigands_noble.GetTitledFirstName]要求[brigands_mayor.GetBestName]进行赔偿. 这事正等待着你的仲裁.;;;;;;;;;x
+EVTOPTA_WoL_12031;看上去很公平. [brigands_mayor.GetTitledFirstName]将赔偿损失.;;;;;;;;;x
+EVTOPTB_WoL_12031;[brigands_mayor.GetTitledFirstName]不该对这次失窃事件负责!;;;;;;;;;x
+EVTOPTC_WoL_12031;我亲自赔偿[brigands_noble.GetTitledFirstName]吧.;;;;;;;;;x
+EVTDESC_WoL_12506;无论是实至名归还是如何, 你在廷议上的决策给你带来了一个英明的名声. 人们不远万里过来寻求你的建议.;;;;;;;;;x
+EVTDESC_WoL_12507;你的封臣们开始尊重你的统治, 尽管他们并不总是同意你的决定. 没人质疑你的统治权.;;;;;;;;;x
 EVTDESC_WoL_4161_gamer;It's great to spend time carousing and frolicking in good company. You feel great, absolutely great, and that means the time has come to bring out the old game board.;;;;;;;;;x
 EVTDESC_WoL_4161_non_gamer;It's great to spend time carousing in merry company. While the cups are being refilled, [From.GetTitledFirstName] brings out a strange board with little decorated pieces, explaning that it's a kind of strategy game. [From.GetSheHe] assures you that it's a great pastime that combines well with copious amounts of drink.;;;;;;;;;x
 EVTOPTA_WoL_4161;We will play for money!;;;;;;;;;x
