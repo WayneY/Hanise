@@ -1,0 +1,527 @@
+[1];HAS_NO_FRIENDLY_REFORMATION_CENTER;
+Has NO <VAR-NAME> Reformation Centers
+没有<VAR-NAME>教改中心
+
+[2];HAS_FRIENDLY_REFORMATION_CENTER;
+Has a <VAR-NAME> Reformation Center
+有<VAR-NAME>教改中心
+
+[3];HAS_NO_HOSTILE_REFORMATION_CENTER;
+Has NO hostile Reformation Centers
+没有敌对教改中心
+
+[4];HAS_HOSTILE_REFORMATION_CENTER;
+Has a hostile Reformation Center
+有敌对教改中心
+
+[5];swedish_hats;
+Hats in Power
+礼帽派掌权
+
+[6];swedish_caps;
+Caps in Power
+便帽派掌权
+
+[7];CRUSADER_BENEFIT;
+Joining the crusader, and paying full maintenance on your armies will give\n<VAR-WHAT>
+加入十字军并承担你的军队的全部维护费用将给你\n<VAR-WHAT>
+
+[8];COLONIZE_IN_TORDESILLAS_CLAIM;
+Treaty of Tordesillas: <VAR-VAL>\n
+托尔德西里亚斯条约: <VAR-VAL>\n
+
+[9];EXPLORE_MISSION_TT;
+Send Fleet on Exploration mission
+派舰队去执行探索任务
+
+[10];CURRENTLY_EXPLORING;
+Currently this fleet is on an exploration mission.
+舰队此时正在执行一个探索任务
+
+[11];CANNOT_EXPLORE_IF_ON_MISSION;
+Cannot explore if the fleet is on another mission already.
+舰队已在执行另一个任务中，不能再进行探索
+
+[13];SELECT_EXPLORE_MISSION;
+Select Mission
+选择任务
+
+[15];EXPLORE_MISSON_COAST;
+Explore the coast of <VAR-WHERE>.
+探索<VAR-WHERE>海岸
+
+[16];aragonese;
+Aragonese
+阿拉贡语
+
+[17];violated_tordesillas;
+Violated Treaty of Tordesillas
+违反托尔德西里亚斯条约
+
+[18];PAPAL_GRANT;
+Claimed by <VAR-WHO>
+被<VAR-WHO>宣称
+
+[19];PAPAL_GRANTED;
+The entire <VAR-COLONIAL_REGION> is granted to <VAR-COUNTRY>.
+整个<VAR-COLONIAL_REGION>被授予给了<VAR-COUNTRY>.
+
+[20];PAPAL_GRANT_ADVISE;
+<A7-Y>It is not advisable for us to settle here as a fellow catholic country, since it will upset our relation with both <VAR-COUNTRY> and <VAR-PAPALNATION>, as well as making it harder for us to attract settlers.<A7-!>
+不建议在此地建立一个天主教国家, 这将同时损害我们和<VAR-COUNTRY>以及<VAR-PAPALNATION>的关系, 并让我们更难以吸引定居者.<A7-!>
+
+[21];large_colonial_nation;
+Large Colonial Nation
+大型殖民国家
+
+[22];START_PIRATEHUNT_MISSION;
+Hunt Pirates
+打击海盗
+
+[23];START_PIRATEHUNT_MISSION_DESC;
+Sending a fleet to hunt pirates will reduce the efficiency of privateers in that trade node.
+派出一个舰队去打击海盗能降低那个贸易节点的海盗活动率
+
+[24];PIRATE_HUNT_TOOLTIP;
+With a total of <VAR-HUNT|Y> guns in pirate hunting, and <VAR-PIRATE|Y> guns privateering, the penalty to privateering in this node is <VAR-PENALTY>%<A7-!>.
+合计有<VAR-HUNT|Y>艘船在打击海盗, <VAR-PIRATE|Y>艘船在进行海盗活动, 在此情况下, 该节点的私掠惩罚为<VAR-PENALTY>%<A7-!>.
+
+[25];STOP_PIRATEHUNT_MISSION;
+Stop hunting for pirates
+停止打击海盗
+
+[26];PIRATE_HUNT_NAVY_NO_SHIPS;
+You need to have heavy or light ships to pirate hunt. Galleys and/or transports cannot do it.
+你需要大型或轻型船才能打击海盗. 桨帆船和/或运输船是不行的.
+
+[27];COL_MERCH_BONUS;
+Provides us with a bonus merchant, as it has at least <VAR-SIZE|Y> cities.
+因为拥有至少<VAR-SIZE|Y>个城市, 我们将获得一个奖励的商人,
+
+[28];COL_MERCH_BONUS_SMALL;
+This colonial nation is too small to provide us with a bonus merchant.  They need to control <VAR-SIZE|Y> cities, but currently only have <VAR-CURR|R> cities.
+这个殖民地太小了不能获得奖励的商人. 他们需要控制<VAR-SIZE|Y>个城市, 但现在只有<VAR-CURR|R>个.
+
+[29];BUILD_POWER_DESC2;
+It will cost <VAR-VAL|Y> <VAR-TYPE> power to buy this idea.
+需要消耗<VAR-VAL|Y> <VAR-TYPE>力量来激活该理念.
+
+[30];IDEAS_MORE_EXPENSIVE;
+Having more than half your idea groups of the same category makes it more expensive.\n<VAR-NAME>: <VAR-IMPACT|+>
+有一半的理念组都在同一个领域内会让它变得更昂贵.\n<VAR-NAME>: <VAR-IMPACT|+>
+
+[31];IDEA_GROUP_STACKING_WARNING;
+Having more than half your idea groups of the same category makes it more expensive.
+一半的理念组都在同一个领域内, 这会让它变得更昂贵.
+
+[32];REBELSUPP_FACTION_LIST;
+<VAR-VAL> province(s)
+<VAR-VAL>个省
+
+[37];DISASTER_STOP_WHEN;
+Can be stopped by:\n<VAR-WHEN>
+将停止于:\n<VAR-WHEN>
+
+[38];DISASTER_PROGRESS_MODS;
+Progress modified by:\n<VAR-PROGRESS>
+进度被修正:\n<VAR-PROGRESS>
+
+[39];DISASTER_PROGRESS_WHERE;
+Currently at <A7-Y><VAR-VAL>%<A7-!> progress towards starting.
+目前正处于<A7-Y><VAR-VAL>%<A7-!>的进度.
+
+[40];DISASTER_PROGRESS_WHY;
+Progress is <VAR-INC> each month.\n<VAR-WHY>
+进度正每月增加<VAR-INC>.\n<VAR-WHY>
+
+[47];eng_opposes_lollards;
+Opposing the Lollards
+排斥罗拉德派
+
+[48];desc_eng_opposes_lollards;
+The English are opposing the Lollard Heresy, which is truly appreciated by the Holy See.
+英国人正在排斥罗拉德异端, 这被天父圣愿所喜.
+
+[62];the_dacke_feud;
+The Dacke War
+丹克战争
+
+[63];desc_the_dacke_feud;
+Nils Dacke was a well-off farmer from Smaland who got so fed up with the centralism, high taxes and confiscation of church property that he led the old border county in open revolt.
+尼尔斯丹克是
+
+[64];polish_noble_rebels_demand;
+Return of Elective Monarchy
+回到选举君主制
+
+[65];polish_noble_rebels_demand_desc;
+The nobles demand we go back to having the old ways, where mounted cavaliers ruled estates of subservient peasants. They demand an end to this country of Merchants and Peasants.
+贵族们要求我们回到过去, 那个骑士们统治农奴的岁月. 他们要求结束这个商人和农民的国家.
+
+[66];polish_noble_rebels_title;
+Magnates
+权贵
+
+[67];polish_noble_rebels_name;
+<VAR-COUNTRY> Magnate Rebels
+<VAR-COUNTRY>权贵叛军
+
+[68];polish_noble_rebels_desc;
+Magnate Rebels are dissatisfied with their monarch, usually due to liberal reforms. They field professional troops with a large proportion of cavalry.
+权贵叛军对他们的郡主不满, 大多是因为自由化改革. 他们组成了由大量骑士的专业军队.
+
+[69];polish_noble_rebels_army;
+Noble Army
+贵族军队
+
+[70];INCOME_TREASURE_FLEET;
+Treasure Fleet
+财宝船
+
+[549];ADD_DOOM;
+<VAR-DIRECTION> <VAR-VALUE> Doom
+<VAR-DIRECTION> <VAR-VALUE>末日
+
+[550];ADD_AUTHORITY;
+<VAR-DIRECTION> <VAR-VALUE> Authority
+<VAR-DIRECTION> <VAR-VALUE>权威
+
+[670];farmlands_desc;
+Farmlands terrain represents highly cultivated areas where the landscape is dominated by agriculture and towns or villages.
+农场地形表示该地已被高度开发, 以农业和农村为主.
+
+[671];drylands_desc;
+Drylands represents large areas of dry, flat or rolling treeless land.
+干地表示一片广大的干旱, 平坦或树木很少的土地.
+
+[672];steppe_desc;
+Steppes terrain represents large and continuous open areas covered in grass that are suitable for grazing yet unsuitable for agriculture. 
+草原地形表示大片连续开放的草场, 适合放牧, 暂时不适合农业.
+
+[673];savannah_desc;
+Savanna terrain represents large grass-covered areas with a high degree of trees mixed in.
+热带草原地形表示大片草场混杂大量树木的区域.
+
+[674];highlands_desc;
+Highlands terrain represents areas dominated by a rolling landscape of shifting elevation that are lower and less steep than mountains. Unlike the hills terrain highlands represent areas with a low density of trees and underbrush.
+高地地形表示以连绵的海拔低于山地但相比丘陵又没那么多树和灌木的地形为主导的区域.
+
+[683];SELECT_LEADER_AT_SEA;
+<A7-R>This leader is at sea and cannot be reassigned.<A7-!>
+<A7-R>这名领袖正在海上, 不能被重新任命.<A7-!>
+
+[749];INTI_REFORM_TOOLTIP;
+Are you sure you want to unlock <A7-Y><VAR-NAME><A7-!>? Doing so will cost <A7-Y>100<A7-!> Authority, lower your stability by <A7-R>2<A7-!> and plunge the nation into civil war.
+确定解锁<A7-Y><VAR-NAME><A7-!>? 这么做需要消耗<A7-Y>100<A7-!> 权威, 降低<A7-R>2<A7-!>稳定, 并会将国家带入内战.
+
+[750];NAHUATL_REFORM_TOOLTIP;
+Are you sure you want to unlock <A7-Y><VAR-NAME><A7-!>? Doing so will advance your Doom by <A7-R>25<A7-!>, release all your subjects and lower your stability by <A7-R>1<A7-!>.
+确定解锁<A7-Y><VAR-NAME><A7-!>? 这么做将增加你<A7-R>25<A7-!>末日值, 释放你所征服的所有属国, 降低<A7-R>1<A7-!>稳定.
+
+[751];MESOAMERICAN_REFORM_TOOLTIP;
+Are you sure you want to unlock <A7-Y><VAR-NAME><A7-!>? Doing so will free all nations you have subjugated, release some of your provinces and lower your stability by <A7-R>1<A7-!>.
+确定解锁<A7-Y><VAR-NAME><A7-!>? 这么做会释放你所征服的所有国家, 释放你的一些省份, 并降低<A7-R>1<A7-!>稳定.
+
+[758];PRIMITIVES_CANT_BUILD_SHIPS;
+Primitive nations can't build ships.
+原始国家不能造船.
+
+[810];important_natural_harbor;
+Important Natural Harbor
+天然良港
+
+[811];desc_important_natural_harbor;
+This province is naturally suited to become a local Center of Trade and controlling it will help control trade in the region.
+这个省份天生适合成为当地的贸易中心, 控制它将帮助我们控制这个区域的贸易.
+
+[888];mangaeza_estuary_modifier;
+Taz Estuary
+塔兹河口
+
+[889];desc_mangaeza_estuary_modifier;
+Controlling the important river estuary of Taz strengthens our hold of the trade in the region.
+控制重要的塔兹河口加强了我们在该地区的贸易存在.
+
+[890];columbia_estuary_modifier;
+Columbia Estuary
+哥伦比亚河口
+
+[891];desc_columbia_estuary_modifier;
+Controlling the important river estuary of the Columbia River strengthens our hold of the trade in the region.
+控制重要的哥伦比亚河口加强了我们在该地区的贸易存在.
+
+[892];delaware_estuary_modifier;
+Delaware Estuary
+特拉华河口
+
+[893];desc_delaware_estuary_modifier;
+Controlling the important river estuary of the Delaware River strengthens our hold of the trade in the region.
+控制重要的特拉华河口加强了我们在该地区的贸易存在.
+
+[894];james_estuary_modifier;
+James Estuary
+詹姆斯河口
+
+[895];desc_james_estuary_modifier;
+Controlling the important river estuary of the James River strengthens our hold of the trade in the region.
+控制重要的詹姆斯河口加强了我们在该地区的贸易存在.
+
+[896];santee_estuary_modifier;
+Santee Estuary
+桑蒂河口
+
+[897];desc_santee_estuary_modifier;
+Controlling the important river estuary of the Santee River strengthens our hold of the trade in the region.
+控制重要的桑蒂河口加强了我们在该地区的贸易存在.
+
+[898];guayas_estuary_modifier;
+Guayas Estuary
+瓜亚斯河口
+
+[899];desc_guayas_estuary_modifier;
+Controlling the important river estuary of the Guayas River strengthens our hold of the trade in the region.
+控制重要的瓜亚斯河口加强了我们在该地区的贸易存在.
+
+[900];senegal_estuary_modifier;
+Senegal Estuary
+塞内加尔河口
+
+[901];desc_senegal_estuary_modifier;
+Controlling the important river estuary of the Senegal River strengthens our hold of the trade in the region.
+控制重要的塞内加尔河口加强了我们在该地区的贸易存在.
+
+[902];zambezi_estuary_modifier;
+Zambezi Estuary
+赞比西河口
+
+[903];desc_zambezi_estuary_modifier;
+Controlling the important river estuary of the Zambezi River strengthens our hold of the trade in the region.
+控制重要的赞比西河口加强了我们在该地区的贸易存在.
+
+[904];red_river_estuary_modifier;
+Red River Estuary
+红河河口
+
+[905];desc_red_river_estuary_modifier;
+Controlling the important river estuary of the Red River strengthens our hold of the trade in the region.
+控制重要的红河河口加强了我们在该地区的贸易存在.
+
+[906];irrawaddy_estuary_modifier;
+Irrawaddy Estuary
+伊洛瓦底河口
+
+[907];desc_irrawaddy_estuary_modifier;
+Controlling one of the important mouths of the Irrawady River strengthens our hold of the trade in the region.
+控制重要的伊洛瓦底河口加强了我们在该地区的贸易存在.
+
+[1110];swedish_mercenary_core;
+Swedish Mercenary Core
+瑞典佣兵团
+
+[1111];desc_swedish_mercenary_core;
+Tactical innovations and organizational reforms to develop a professional army through relying on professional mercenaries.
+战术创新和组织改革发展出了一支依赖于专业佣兵的职业军队.
+
+[1726];OL_UNIT_PIRANTEHUNTMISSION;
+Hunting Pirates in <VAR-NODE>
+打击海盗于<VAR-NODE>
+
+[1971];CLAIMINFO_DELAYED_OWNED;
+The claim can never expire while <VAR-PROVINCE_OWNER|Y> owns and hasn't cored the province. If the province is lost, the claim will expire <VAR-DATE|Y>.
+只要<VAR-PROVINCE_OWNER|Y>依然占有这个省份但还未将其变为核心, 这个宣称就不会过期. 如果失去了这个省份, 这个宣称就将在<VAR-DATE|Y>内过期.
+
+[2126];END_OF_DISASTER_MOD;
+End of <VAR-NAME>
+<VAR-NAME>结束
+
+[2140];MISSIONARY_FULL_STRENGTH;
+Our base Missionary Strength in this province is <A7-Y><VAR-VALUE><A7-!>.
+我们在这个省份的基础传教力量是<A7-Y><VAR-VALUE><A7-!>.
+
+[2335];theocratic_government_ruler_pagan;
+High Priest
+大祭司
+
+[2410];cb_flower_wars;
+Flower Wars
+鲜花战争
+
+[2411];cb_flower_wars_desc;
+We must force our neighbors to bend knee, so that we may have a regular supply of human sacrifices to keep the end of the world at bay.
+我们要迫使邻国向我们下跪, 如此我们才能获得一个常规的人祭来源.
+
+[2412];cb_maya_expansion;
+Maya Confederation
+玛雅联邦
+
+[2413];cb_maya_expansion_desc;
+The lands around us are divided into numerous Cahs, city states of little consequence. All neighboring Cahs must join our city or perish.
+我们周围的土地被分成了无数的“卡”-无足轻重的城邦.所有邻“卡”都必须加入我们城或者就毁灭.
+
+[2463];CANNOT_DOW_SENIOR_PARTNER_WHILE_SUCCESSION_WAR;
+You can't declare war your personal union partner while a succession war is being fought over your throne.
+当正在进行对你王位的继承战争时, 你不能对你联统对象宣战.
+
+[2934];desc_iconoclastic_fury;
+The outbreaks of destruction of Catholic religious art across the country have caused many people to flee their homes and disrupted production and trade.
+全国性的对天主教信仰艺术的摧毁已使很多人逃离了家园, 打乱了生产和贸易秩序.
+
+[3079];ElDoradoDLC;
+El Dorado
+黄金国
+
+[3590];inti;
+Inti
+因蒂
+
+[3591];nahuatl;
+Nahuatl
+纳瓦特尔
+
+[3592];mesoamerican_religion;
+Mayan
+玛雅
+
+[3593];doom;
+Doom
+末日
+
+[3594];authority;
+Authority
+权威
+
+[3595];AUTHORITY_FROM_TAX;
+From <VAR-ADJ> base tax: <VAR-VAL>
+来自<VAR-ADJ>基础税收: <VAR-VAL>
+
+[3596];DOOM_FROM_PROVINCES;
+Number of owned provinces: <VAR-VAL>
+拥有的省份数量: <VAR-VAL>
+
+[3597];DOOM_FROM_REFORMS;
+\nNumber of Religious Reforms: <VAR-VAL>
+\n宗教改革数量: <VAR-VAL>
+
+[3598];AUTHORITY_TOOLTIP_INSTANT;
+Authority changes by <VAR-CHANGE> every year due to:\n
+权威值每年变化<VAR-CHANGE>, 因为:\n
+
+[3599];AUTHORITY_TOOLTIP_EFFECTS;
+<A7-Y>Effects from our current Authority:<A7-!>\n
+<A7-Y>我们当前权威值带来的效果:<A7-!>\n
+
+[3600];AUTHORITY_TOOLTIP_DESC;
+Authority is a measure of the spiritual power and stature of the <VAR-MONARCHTITLE>. When Authority reaches <A7-Y>100<A7-!>, we will be able to enact religious reforms. Authority increases from owning a large territory, and goes down when territories are granted autonomy.
+权威值是对灵属能量<VAR-MONARCHTITLE>高度的度量. 当权威值到达<A7-Y>100<A7-!>, 我们就能发起宗教改革. 权威会随着疆域的扩大而增长, 随着地区被给予自治而减少.
+
+[3601];DOOM_TOOLTIP_INSTANT;
+Doom changes by <VAR-CHANGE> every year due to:\n
+末日值每年变化<VAR-CHANGE>, 因为:\n
+
+[3602];DOOM_TOOLTIP_MAX;
+If Doom reaches <A7-Y>100<A7-!>, we will have no choice but to sacrifice our ruling family, casting our nation into chaos.
+当末日值到达<A7-Y>100<A7-!>时, 我们将别无选择只能献祭我们的王室家族, 将国家带入混乱之中.
+
+[3603];DOOM_TOOLTIP_DESC;
+Our people believe that the world will come to an end unless our gods are strong enough to prevent it. By <A7-Y>winning battles, occupying provinces and vassalizing other states<A7-!> we can acquire captives to sacrifice, giving strength to the gods and ensuring that doomsday never arrives.
+我们的人民相信如果我们的神没有足够强大的话世界将会灭亡. 通过<A7-Y>赢得战斗, 占领省份和附庸别国<A7-!>我们能获得俘虏来献祭, 增强神的力量以确保末日不会到来.
+
+[3604];DOOM_TOOLTIP_EFFECTS;
+<A7-Y>Effects from our current Doom:<A7-!>\n
+<A7-Y>我们当前末日值带来的效果:<A7-!>\n
+
+[3605];kizilirmak_estuary_modifier;
+Kizilirmak Estuary
+克泽尔河口
+
+[3606];desc_kizilirmak_estuary_modifier;
+Controlling the important river estuary of the Kizilirmak strengthens our hold of the trade in the region.
+控制重要的克泽尔河口加强了我们在该地区的贸易存在.
+
+[3607];USES_NOT_DOOM;
+<A7-Y><VAR-COUNTRY><A7-!> does NOT have Doom
+<A7-Y><VAR-COUNTRY><A7-!>不使用末日
+
+[3608];USES_DOOM;
+<A7-Y><VAR-COUNTRY><A7-!> has Doom
+<A7-Y><VAR-COUNTRY><A7-!>使用末日
+
+[3609];USES_NOT_AUTHORITY;
+<A7-Y><VAR-COUNTRY><A7-!> does NOT have Authority
+<A7-Y><VAR-COUNTRY><A7-!>不使用权威
+
+[3610];USES_AUTHORITY;
+<A7-Y><VAR-COUNTRY><A7-!> has Authority
+<A7-Y><VAR-COUNTRY><A7-!>使用权威
+
+[3611];menderes_estuary_modifier;
+Menderes Estuary
+门德雷斯河口
+
+[3612];desc_menderes_estuary_modifier;
+Controlling the important river estuary of the Menderes strengthens our hold of the trade in the region.
+控制重要的门德雷斯河口加强了我们在该地区的贸易存在.
+
+[3613];IDEA_GROUP_CANNOT_TAKE;
+<A7-R>You do not fulfill all requirements for unlocking this idea:<A7-!>\n
+<A7-R>你未达到可以解锁该理念的所有前置条件:<A7-!>\n
+
+[3614];RELEASE_SUBJECTS_EFFECT;
+All <A7-Y><VAR-COUNTRY><A7-!> subjects become independent.
+所有<A7-Y><VAR-COUNTRY><A7-!>的属国获得独立.
+
+[3615];RELEASE_CORES_EFFECT;
+<A7-Y><VAR-COUNTRY><A7-!> become independent.
+<A7-Y><VAR-COUNTRY><A7-!>获得独立.
+
+[3616];COLLAPSE_NATION_EFFECT;
+<A7-Y><VAR-COUNTRY><A7-!> is reduced to a size of <A7-Y><VAR-NUM><A7-!> provinces.
+<A7-Y><VAR-COUNTRY><A7-!>的疆域减少为<A7-Y><VAR-NUM><A7-!>个省份.
+
+[3617];sacrificed_ruler;
+Sacrificed our Ruler
+献祭我们的统治者
+
+[3618];sacrificed_heir;
+Sacrificed our Heir
+献祭我们的储君
+
+[3619];REFORM_RELIGION;
+Reform Religion
+宗教改革
+
+[3620];declared_independence;
+Recently Declared Independence
+近期宣布过独立
+
+[3621];RR_REFORMS;
+Reforms
+改革
+
+[3622];MINAGGRESSIVEEXPANSION;
+You must have at least <A7-Y>30<A7-!> aggressive expansion opinion penalty towards a country to join a coalition against them.
+你必须要对某国有至少<A7-Y>30<A7-!>点侵略扩张关系惩罚才能加入对它的包围圈.
+
+[3624];EXPLORES_IN_REGION;
+This explores in <VAR-REGION> (<VAR-CONTINENT>)
+探索<VAR-REGION> (<VAR-CONTINENT>)
+
+[3625];EXPLORES_IN_CONTINENT;
+This explores in <VAR-CONTINENT>
+探索<VAR-CONTINENT>
+
+[3626];HAS_MAY_EXPLORE;
+You have <A7-Y><VAR-NAME><A7-!> and can explore everywhere.
+你有<A7-Y><VAR-NAME><A7-!>, 可以探索任何地方.
+
+[3627];HAS_NOT_MAY_EXPLORE;
+You don't yet have the idea <A7-Y><VAR-NAME><A7-!> and can't explore across the high seas.
+你还没有<A7-Y><VAR-NAME><A7-!>这个理念, 不能穿过深海区探索.
+
+[3628];NUM_CUSTOM_NATIONS_LESS_THAN;
+Number of Custom Nations is less than <VAR-VAL|Y>.
+自定义国家数量少于<VAR-VAL|Y>.
+
+[3629];NUM_CUSTOM_NATIONS_AT_LEAST;
+Number of Custom Nations is at least <VAR-VAL|Y>.
+自定义国家数量至少<VAR-VAL|Y>.
